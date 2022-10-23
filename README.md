@@ -29,4 +29,4 @@ gh repo clone RavinClaw/Dragon-X-Virtual-Machine
 
 # Installing python
 * Linux ---> ```sudo apt install python ```
-* Windows ---> download from python.org/download
+* Windows ---> download from https://python.org/download
