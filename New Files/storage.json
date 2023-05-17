@@ -1,0 +1,18 @@
+{
+    "Directories": [
+    ],
+    "Files": [
+        {
+            "name": "file.txt",
+            "formatting": "text",
+            "contents": "",
+            "owner": "Alpha"
+        },
+        {
+            "name": "storage.uni",
+            "formatting": "uni/script",
+            "contents": "\\x6e \\x65 \\x74 \\x2e \\x62 \\x72 \\x6f \\x61 \\x64 \\x63 \\x61 \\x73 \\x74 \\x28 \\x22 \\x52 \\x75 \\x6e \\x6e \\x69 \\x6e \\x67 \\x20 \\x54 \\x68 \\x69 \\x73 \\x20 \\x46 \\x69 \\x6c \\x65 \\x20 \\x43 \\x61 \\x6e \\x20 \\x62 \\x65 \\x20 \\x43 \\x6f \\x6f \\x6c \\x20 \\x59 \\x6f \\x75 \\x20 \\x4b \\x6e \\x6f \\x77 \\x22 \\x29 \\x3b",
+            "owner": "root"
+        }
+    ]
+}
